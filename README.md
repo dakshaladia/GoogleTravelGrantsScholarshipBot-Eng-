@@ -1,6 +1,6 @@
 # GoogleTravelGrantsScholarshipBot-Eng-
 
-This chatbot has been created using DialogFlow and has been deployed on Google Assistant. The bot basically gives details on the various queries and provides links and information about the Scholarship.
+This chatbot has been created using DialogFlow and has been deployed on Google Assistant. The bot basically gives details on the various queries and provides links and information about the Scholarship. Its built in English Language.
 
 Here is the link : https://assistant.google.com/services/a/uid/0000009143194200?hl=en
 Do try it !
